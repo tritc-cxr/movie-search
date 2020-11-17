@@ -7,7 +7,7 @@ class Main extends React.Component {
     render() {
         return (
             <div className="container">
-                <h1 className="title">Movie search</h1>
+                <h1 className="title">Movie search - V1</h1>
                 <SearchMovie />
             </div>
         )
